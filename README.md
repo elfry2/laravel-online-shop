@@ -1,6 +1,6 @@
 # Laravel 12 E-Commerce Storefront
 
-Lazily made with Gemini ([https://share.gemini.google/zpuEXfDCo9yi](https://share.gemini.google/zpuEXfDCo9yi)).
+Lazily made with Gemini Auto Low ([https://share.gemini.google/zpuEXfDCo9yi](https://share.gemini.google/zpuEXfDCo9yi)).
 
 A simple, modular, and functional e-commerce application built with **Laravel 12**, **Blade Components**, **Tailwind CSS**, and **Laravel Breeze** for authentication.
 
