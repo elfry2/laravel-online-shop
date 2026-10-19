@@ -184,4 +184,4 @@ Visit the application at [http://localhost:8000](http://localhost:8000).
 ---
 
 ## 📄 License
-This project is open-source and created for educational purposes.# laravel-online-shop
+This project is open-source and created for educational purposes.
